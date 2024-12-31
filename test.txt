@@ -1,6 +1,0 @@
-HELLO
-HELLO
-Hello
-HELLO
-HELLO
-i love python
